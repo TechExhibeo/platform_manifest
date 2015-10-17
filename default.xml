@@ -16,7 +16,7 @@
            sync-j="8" />
 
   <!-- InfinitiveOS Repos -->
-  <project path="build" name="Infinitive-OS/android_build" />
+  <project path="build" name="Infinitive-OS/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="art" name="Infinitive-OS/android_art" />
