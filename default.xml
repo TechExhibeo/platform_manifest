@@ -88,6 +88,7 @@
   <project path="vendor/io" name="platform_vendor_io" remote="io" >
     <copyfile src="rom-build.sh" dest="rom-build.sh" />
   </project>
+  <project name="platform_vendor_qcom-opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="io" />
   <project name="platform_vendor_qcom-opensource_dpm" path="vendor/qcom/opensource/dpm" remote="io" />
   <project name="platform_vendor_qcom-opensource_fm" path="vendor/qcom/opensource/fm" remote="io" />
 <!-- END Infinitive-OS -->
