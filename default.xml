@@ -439,5 +439,5 @@
   <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services"/>
 <!-- END CODEAURORA -->
  
-  <project name"SlimRoms/packages_apps_SlimLauncher" path="packages/apps/SlimLauncher" remote="gh" revision="mm6.0" />
+  <project name="SlimRoms/packages_apps_SlimLauncher" path="packages/apps/SlimLauncher" remote="gh" revision="mm6.0" />
 </manifest>
