@@ -76,6 +76,8 @@
   <project name="platform_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="io" />
   <project name="platform_packages_apps_Dialer" path="packages/apps/Dialer" remote="io" />
   <project name="platform_packages_apps_InCallUI" path="packages/apps/InCallUI" remote="io" />
+  <project name="platform_packages_apps_Music" path="packages/apps/Music" remote="io" />
+  <project name="platform_packages_apps_MusicFX" path="packages/apps/MusicFX" remote="io" />
   <project name="platform_packages_apps_Settings" path="packages/apps/Settings" remote="io" />
   <project name="platform_packages_apps_SlimLauncher" path="packages/apps/SlimLauncher" remote="io" />
   <project name="platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="io" />
